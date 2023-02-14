@@ -1,13 +1,16 @@
-import React from 'react';
+import React, { StrictMode } from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import 'mdb-react-ui-kit/dist/css/mdb.min.css';
 
+let root = ReactDOM.createRoot(document.getElementById('root'));
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+    <StrictMode>
     <App />
-  </React.StrictMode>
+    </StrictMode>
+
 );
+
 
