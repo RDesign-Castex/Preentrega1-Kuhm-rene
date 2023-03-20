@@ -1,2 +1,2 @@
 # PreentregaFinal-Kuhm-rene
-![image]("https://giphy.com/embed/1CVrJSWnccHb2tuGmu") 
+![image](https://media.giphy.com/media/1CVrJSWnccHb2tuGmu/giphy.gif)
