@@ -14,12 +14,12 @@ const client = algoliasearch( APPLICATION_ID , SEARCH_API_KEY)
 const index = client.initIndex(ALGOLIA_INDEX)
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDBvFqBKHbFIiWbk-aWRUibHwqGz_YaCfM",
-  authDomain: "coderhouse-ecommerce-gaming.firebaseapp.com",
-  projectId: "coderhouse-ecommerce-gaming",
-  storageBucket: "coderhouse-ecommerce-gaming.appspot.com",
-  messagingSenderId: "338743471227",
-  appId: "1:338743471227:web:f66b00e386f92cf9d546de",
+  apiKey: "AIzaSyC0Rk1LfwkVylAvHPEnB8-2mXhORq6aQf0",
+  authDomain: "ecommercenhk-564a5.firebaseapp.com",
+  projectId: "ecommercenhk-564a5",
+  storageBucket: "ecommercenhk-564a5.appspot.com",
+  messagingSenderId: "296425066215",
+  appId: "1:296425066215:web:49f938aecea40519441c42",
 };
 
 // Initialize Firebase
